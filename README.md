@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leandro
-- 🌱 I’m currently learning <b>Front-End Engineer</b>
+- 🌱 I’m a <b>Computer Engineer</b> student
 - 💞️ I’m looking to collaborate in any project 
 - 📫 How to reach me on <a href="https://twitter.com/leanmarin1">Twitter</a> 
 
